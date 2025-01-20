@@ -1,0 +1,7 @@
+C:\Users\elber\source\repos\WhatsAppMessageSender\WhatsAppMessageSender\obj\Debug\WhatsAppMessageSender.csproj.AssemblyReference.cache
+C:\Users\elber\source\repos\WhatsAppMessageSender\WhatsAppMessageSender\obj\Debug\WhatsAppMessageSender.csproj.CoreCompileInputs.cache
+C:\Users\elber\source\repos\WhatsAppMessageSender\WhatsAppMessageSender\bin\Debug\WhatsAppMessageSender.exe.config
+C:\Users\elber\source\repos\WhatsAppMessageSender\WhatsAppMessageSender\bin\Debug\WhatsAppMessageSender.exe
+C:\Users\elber\source\repos\WhatsAppMessageSender\WhatsAppMessageSender\bin\Debug\WhatsAppMessageSender.pdb
+C:\Users\elber\source\repos\WhatsAppMessageSender\WhatsAppMessageSender\obj\Debug\WhatsAppMessageSender.exe
+C:\Users\elber\source\repos\WhatsAppMessageSender\WhatsAppMessageSender\obj\Debug\WhatsAppMessageSender.pdb
